@@ -32,17 +32,15 @@
 <p>大概就是这样，我也会在文末放置一些dalao的教程，当然官方文档也是最最需要看的。</p>
 <h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>拉拉杂杂写了一大堆，但是这个博客还是有很多能改进的地方，姑且就在这里列出来吧。</p>
 <ul>
-<li>能有什么操作能隐藏文章和访问隐藏文章</li>
+<li><del>能有什么操作能隐藏文章和访问隐藏文章</del>勉强算是有了吧</li>
 <li>侧边栏的黑色搞成彩色（其实也可以不搞</li>
 <li>找一个网站logo</li>
 <li>给网站整个背景</li>
-<li>访客统计</li>
-<li>自动切黑白</li>
 <li>貌似没了</li>
 </ul>
 <p>不过这些功能目前来说都是可有可无的，等我哪天心情好了可能就有了吧。</p>
 <p>好了，现在这个博客已经基本上能看了，最后放一张大一的时候去吃夜市拍的一张图收尾吧，顺便测试一下图片插入有没有问题。</p>
-<p> <img src="IMG_0800.jpeg" alt="IMG_0800.heic"width="50%"><i class="img-caption">◎ 结果用了一种极其tricky的方法才达成这样的效果。。</i></p>
+<p> <img src="IMG_0800.jpeg" alt="MG_0800.heic"width="651"><i class="img-caption">◎ 结果用了一种极其tricky的方法才达成这样的效果。。</i></p>
 <h1 id="推荐链接"><a href="#推荐链接" class="headerlink" title="推荐链接"></a>推荐链接</h1><ul>
 <li><a href="https://zhuanlan.zhihu.com/p/26625249" target="_blank" rel="noopener">GitHub+Hexo 搭建个人网站详细教程</a></li>
 <li><a href="https://guanqr.com/tech/website/hexo-theme-next-customization/" target="_blank" rel="noopener">Hexo-NexT 主题个性优化</a></li>
