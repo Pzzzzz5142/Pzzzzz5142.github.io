@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>//Building in progress GHS记录</title>
+    <url>/ghs/%E6%9C%AC%E5%AD%90%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<blockquote>
+<p>GHS 是人类进步的基础。  @ Pzzzzz <em>2020.3.17</em></p>
+</blockquote>
+<h1 id="GHS！GHS！"><a href="#GHS！GHS！" class="headerlink" title="GHS！GHS！"></a>GHS！GHS！</h1><p>呼，总算是完成了首页隐藏文章的操作，但是离我心目中的神隐还是有不少差距的，而且目测文章下面的下一篇文章还是会暴露出GHS的文章。不过，目前技术力不够，更多神隐的操作还是难以搞出来。按照惯例，我搞出来的链接还是会放在文章最后，那么，话不多说，直接开搞！</p>
+<h1 id="本"><a href="#本" class="headerlink" title="本"></a>本</h1><p>疫情在家期间，难免无所事事。但是看了许多本子之后，果然还是觉得大塚まひろ老师画得最好看。某粉红色的软件上关于这位老师的作品，u1s1，我全都喜欢。剧情大部分都是纯爱，蛮甜的。大姐头那一系列去掉hs能上动漫之家都没问题。唯一的一部双男主的本子也画了两条线，可谓是诚意满满。画风方面，就我目前的看来，说是我心中的第一也不为过。</p>
+<p><img src="img-1.jpg" alt="某个本子的封面"><i class="img-caption">◎ 随意找了一个本子的封面</i></p>
+<p>而第二部</p>
+]]></content>
+      <categories>
+        <category>ghs</category>
+      </categories>
+      <tags>
+        <tag>ghs</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>折腾博客小结</title>
     <url>/%E9%9A%8F%E7%AC%94/%E5%BB%BA%E7%AB%99/%E6%8A%98%E8%85%BE%E5%8D%9A%E5%AE%A2%E5%B0%8F%E7%BB%93/</url>
     <content><![CDATA[<h1 id="搭！搭tmd！"><a href="#搭！搭tmd！" class="headerlink" title="搭！搭tmd！"></a>搭！搭tmd！</h1><p>老早就想建个博客站了，无奈之前国内的服务器域名要备案国外的vps也不稳。拿个架酸酸乳的vps他配置又不行，装个最新版的wordpress都直呼亚历山大。还好无意之中发现github居然提供静态的网页托管服务，遂爬了一堆教程，终于搭上了博客。</p>
@@ -24,7 +42,7 @@
 </ul>
 <p>不过这些功能目前来说都是可有可无的，等我哪天心情好了可能就有了吧。</p>
 <p>好了，现在这个博客已经基本上能看了，最后放一张大一的时候去吃夜市拍的一张图收尾吧，顺便测试一下图片插入有没有问题。</p>
-<p> <img src="IMG_0800.jpeg" alt="IMG_0800.heic" title="好像图片有点大了。。。"> </p>
+<p> <img src="IMG_0800.jpeg" alt="IMG_0800.heic"width="50%"><i class="img-caption">◎ 结果用了一种极其tricky的方法才达成这样的效果。。</i></p>
 <h1 id="推荐链接"><a href="#推荐链接" class="headerlink" title="推荐链接"></a>推荐链接</h1><ul>
 <li><a href="https://zhuanlan.zhihu.com/p/26625249" target="_blank" rel="noopener">GitHub+Hexo 搭建个人网站详细教程</a></li>
 <li><a href="https://guanqr.com/tech/website/hexo-theme-next-customization/" target="_blank" rel="noopener">Hexo-NexT 主题个性优化</a></li>
