@@ -3,8 +3,8 @@
   <entry>
     <title>动森Q群机器人的 To-DO list！</title>
     <url>/xjb%E5%86%99/%E5%8A%A8%E6%A3%AEQ%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84-To-DO-list%EF%BC%81/</url>
-    <content><![CDATA[<h1 id="动森Q群机器人的-To-DO-list！"><a href="#动森Q群机器人的-To-DO-list！" class="headerlink" title="动森Q群机器人的 To-DO list！"></a>动森Q群机器人的 To-DO list！</h1><blockquote>
-<p>正如其名，我想要搞的功能！包括我特别想搞的和我想搞但是想摸的</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="动森Q群机器人的-To-DO-list！"><a href="#动森Q群机器人的-To-DO-list！" class="headerlink" title="动森Q群机器人的 To-DO list！"></a>动森Q群机器人的 To-DO list！</h1><blockquote>
+<p>正如其名，我想要搞的功能！包括我特别想搞的和我想搞但是想摸的。</p>
 </blockquote>
 <a id="more"></a>
 
@@ -19,13 +19,29 @@
 <blockquote>
 <p>待定使用方法：<code>大头菜 -s</code></p>
 </blockquote>
-<p>  隐藏大头菜价格（该功能将使你的大头菜价格不再显示在 <code>大头菜 -l</code> 命令中，这个功能用于你不想别人看到你的大头菜价格，但是又不想删掉他。设置完成后将不影响<strong>发布大头菜</strong>功能。）</p>
+<p>  隐藏大头菜价格：该功能将使你的大头菜价格不再显示在 <code>大头菜 -l</code> 命令中，这个功能用于你不想别人看到你的大头菜价格，但是又不想删掉这个价格。设置完成后将不影响<strong>发布大头菜</strong>功能。</p>
 </li>
 </ul>
 </li>
 <li><p>上岛功能（待实现）</p>
-<p>  增加上岛成员（该功能将添加想上岛的成员，方便批发房间密码。待定使用方法：<code>岛 -a {QQ号}</code>）</p>
-<p>  批发上岛密码（该功能顾名思义，将批发上岛的密码到上岛的人中。）</p>
+<p>  增加上岛成员：该功能将添加想上岛的成员，方便批发房间密码。</p>
+<blockquote>
+<p>待定使用方法：<code>岛 -a {QQ号}</code></p>
+</blockquote>
+<p>  批发上岛密码：该功能顾名思义，将批发上岛的密码到上岛的人中。</p>
+<blockquote>
+<p>待定使用方法：<code>岛 -p</code></p>
+</blockquote>
+<p>  删除上岛成员：该功能将删除上岛成员。</p>
+  
+    <div id="aplayer-HLNbRLMs" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="22749243" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
+
+
+
+
+
 </li>
 </ul>
 ]]></content>
@@ -39,7 +55,7 @@
   <entry>
     <title>为什么我们要诚信？</title>
     <url>/%E6%B5%81%E6%B0%B4%E8%B4%A6/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%A6%81%E8%AF%9A%E4%BF%A1/</url>
-    <content><![CDATA[<h1 id="Prologue"><a href="#Prologue" class="headerlink" title="Prologue"></a>Prologue</h1><p>最近看了罗老师的<a href="https://www.bilibili.com/video/av95872350" target="_blank" rel="noopener">关于诚信的讨论</a>，这让我又不由的又开始思考起道德的观念。罗老师在视频中讨论了两种不同的道德观，一种是道德主义。这种主义认为我们诚信是因为我们认为诚信是好的，诚信是值得我们去遵守的，因此我们守诚信。第二种道德观则是认为我们遵守诚信是因为我们我们认为诚信可以为我们带来好处。就算目前不能带来好处，甚至是会让我们吃亏，但是从长远的角度来看则是会带来可观的收益。这种思想也被称作功力主义。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="Prologue"><a href="#Prologue" class="headerlink" title="Prologue"></a>Prologue</h1><p>最近看了罗老师的<a href="https://www.bilibili.com/video/av95872350" target="_blank" rel="noopener">关于诚信的讨论</a>，这让我又不由的又开始思考起道德的观念。罗老师在视频中讨论了两种不同的道德观，一种是道德主义。这种主义认为我们诚信是因为我们认为诚信是好的，诚信是值得我们去遵守的，因此我们守诚信。第二种道德观则是认为我们遵守诚信是因为我们我们认为诚信可以为我们带来好处。就算目前不能带来好处，甚至是会让我们吃亏，但是从长远的角度来看则是会带来可观的收益。这种思想也被称作功力主义。</p>
 <a id="more"></a>
 
 <p>但是对于这两种看法，罗老师认为他们都有自己的短板。</p>
@@ -64,7 +80,7 @@
   <entry>
     <title>//Building in progress GHS记录</title>
     <url>/ghs/%E6%9C%AC%E5%AD%90%E8%AE%B0%E5%BD%95/</url>
-    <content><![CDATA[<blockquote>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote>
 <p>GHS 是人类进步的基础。  @ Pzzzzz <em>2020.3.17</em></p>
 </blockquote>
 <h1 id="GHS！GHS！"><a href="#GHS！GHS！" class="headerlink" title="GHS！GHS！"></a>GHS！GHS！</h1><p>呼，总算是完成了首页隐藏文章的操作，但是离我心目中的神隐还是有不少差距的，而且目测文章下面的下一篇文章还是会暴露出GHS的文章。不过，目前技术力不够，更多神隐的操作还是难以搞出来。按照惯例，我搞出来的链接还是会放在文章最后，那么，话不多说，直接开搞！</p>
@@ -82,7 +98,7 @@
   <entry>
     <title>折腾博客小结</title>
     <url>/%E9%9A%8F%E7%AC%94/%E5%BB%BA%E7%AB%99/%E6%8A%98%E8%85%BE%E5%8D%9A%E5%AE%A2%E5%B0%8F%E7%BB%93/</url>
-    <content><![CDATA[<h1 id="搭！搭tmd！"><a href="#搭！搭tmd！" class="headerlink" title="搭！搭tmd！"></a>搭！搭tmd！</h1><p>老早就想建个博客站了，无奈之前国内的服务器域名要备案国外的vps也不稳。拿个架酸酸乳的vps他配置又不行，装个最新版的wordpress都直呼亚历山大。还好无意之中发现github居然提供静态的网页托管服务，遂爬了一堆教程，终于搭上了博客。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="搭！搭tmd！"><a href="#搭！搭tmd！" class="headerlink" title="搭！搭tmd！"></a>搭！搭tmd！</h1><p>老早就想建个博客站了，无奈之前国内的服务器域名要备案国外的vps也不稳。拿个架酸酸乳的vps他配置又不行，装个最新版的wordpress都直呼亚历山大。还好无意之中发现github居然提供静态的网页托管服务，遂爬了一堆教程，终于搭上了博客。</p>
 <a id="more"></a>
 
 <p>现在网站logo还是用的还是默认的，毕竟懒得找icon了<del>还不是因为懒</del>。但是起码有头像有音乐了！取名为阁楼呢是因为我觉得阁楼就是一个放一些乱七八糟的东西的地方，虽然东西很杂，但是正是因为杂，就可以在里面玩得很开心。侧边栏的音乐用的是apple music，没开的话一首歌只能听30秒<del>就算开了你也只能听30秒，因为你不可能登得上的</del>，而且还影响网站加载速度。那这里你可能就要问了，为什么我还要挂apple music呢，一是因为我觉得好看，二是我想放的音乐<strong>网易云他没版权，生成不了外链！</strong>综上，我就放了个apple music在那里。</p>
@@ -120,7 +136,7 @@
   <entry>
     <title>万丈高楼从地起</title>
     <url>/%E9%9A%8F%E7%AC%94/%E4%B8%87%E4%B8%88%E9%AB%98%E6%A5%BC%E4%BB%8E%E5%9C%B0%E8%B5%B7/</url>
-    <content><![CDATA[<h1 id="试试正文使用大标题"><a href="#试试正文使用大标题" class="headerlink" title="试试正文使用大标题"></a>试试正文使用大标题</h1><p>然后，尝试部署一下。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="试试正文使用大标题"><a href="#试试正文使用大标题" class="headerlink" title="试试正文使用大标题"></a>试试正文使用大标题</h1><p>然后，尝试部署一下。</p>
 <p>这大概是真正意义上的第一篇博客吧。</p>
 <p>外观非常简陋（毕竟就套了个默认next主题），但是也算是终于搭上博客了。我会尝试写一些乱七八糟的东西放上去的。</p>
 <p>大概，就是这样吧。。。</p>
