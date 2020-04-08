@@ -3,7 +3,7 @@
   <entry>
     <title>HiCity v0.4 记录</title>
     <url>/xjb%E5%86%99/HiCity-v0-4-%E8%AE%B0%E5%BD%95/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="HiCity-v0-4-记录"><a href="#HiCity-v0-4-记录" class="headerlink" title="HiCity v0.4 记录"></a>HiCity v0.4 记录</h1><blockquote>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote>
 <p>HiCity v0.4 是一个基于pyqt的城市码查询小工具，是我python课的第四次作业。这篇文章则是记录一下再编写这个程序时所遇到的问题和解决方法，以免再次落入同样的窘境之中。</p>
 </blockquote>
 <a id="more"></a>
@@ -55,7 +55,7 @@
   <entry>
     <title>动森Q群机器人的 To-DO list！</title>
     <url>/xjb%E5%86%99/%E5%8A%A8%E6%A3%AEQ%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84-To-DO-list%EF%BC%81/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="动森Q群机器人的-To-DO-list！"><a href="#动森Q群机器人的-To-DO-list！" class="headerlink" title="动森Q群机器人的 To-DO list！"></a>动森Q群机器人的 To-DO list！</h1><blockquote>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote>
 <p>正如其名，我想要搞的功能！包括我特别想搞的和我想搞但是想摸的。</p>
 </blockquote>
 <a id="more"></a>
@@ -87,7 +87,7 @@
 <p>  删除上岛成员：该功能将删除上岛成员。</p>
 <p>  貌似强制付费的和下架的歌就算有歌曲id也放不了啊，淦。</p>
   
-    <div id="aplayer-NyNuspuK" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-bJPNxMMz" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="30251429" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 
