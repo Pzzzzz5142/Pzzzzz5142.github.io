@@ -12,7 +12,9 @@
 <p>本篇文章将按照QWiget、QButton、QHBoxLayout/QVBoxLayout、QTheard、pyqtSignal的顺序来记录如何写一个<strong>有进度条的</strong>、<strong>能自动补全的</strong>基于qt的小应用。</p>
 <h1 id="HiCity-v0-4"><a href="#HiCity-v0-4" class="headerlink" title="HiCity v0.4"></a>HiCity v0.4</h1><p><img data-src="截屏2020-04-07-下午6.57.23.png" alt="截屏2020-04-07 下午6.57.23"><i class="img-caption">◎ 程序主界面</i></p>
 <p>这个主界面非常的直白。但是不足的地方在于从文件进行的操作是在源码中写死了的。QT 支持点击一下按钮就调用一个取文件的操作。这个功能的实现会在后续更新。</p>
-<p>写死的文件路径的写法也是有所讲究的。以前我喜欢直接把相对路径的字符串拍上去，但是由于我使用了一个大的文件夹专门写python，这种作业就会单独开一个小文件夹来方便管理。但是在如下文件结构中，往往需要加”homework/“前缀才能正常的访问搭配 <code>data.txt</code> 文件。<br>.<br>|– python<br>    |– others.py<br>    |– homework<br>        |– HiCity v0.1.py<br>        |– HiCity v0.2.py<br>        |– HiCity v0.3.py<br>        |– HiCity v0.4.py<br>        |– data.txt</p>
+<p>写死的文件路径的写法也是有所讲究的。以前我喜欢直接把相对路径的字符串拍上去，但是由于我使用了一个大的文件夹专门写python，这种作业就会单独开一个小文件夹来方便管理。但是在如下文件结构中，往往需要加”homework/“前缀才能正常的访问搭配 <code>data.txt</code> 文件。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">.</span><br><span class="line">|-- python</span><br><span class="line">    |-- others.py</span><br><span class="line">    |-- homework</span><br><span class="line">        |-- HiCity v0.1.py</span><br><span class="line">        |-- HiCity v0.2.py</span><br><span class="line">        |-- HiCity v0.3.py</span><br><span class="line">        |-- HiCity v0.4.py</span><br><span class="line">        |-- data.txt</span><br></pre></td></tr></table></figure>
+
 <p>但是交作业的时候我们并不知道交上去的作业文件结构是什么样的，也不知道老师的python是在哪个路径下跑的。因此，我们可以通过 <code>os.path.join(os.path.dirname(__file__), &quot;data.txt&quot;)</code>来愉快的访问数据文件。因为你交上去的作业py文件和数据总是在一个文件夹下，所以这样就能避免许多路径上的问题。其中<code>os.path.dirname(__file__)</code>是返回当前文件的绝对路径，<code>os.path.join()</code>函数则是将文件路径连接起来。</p>
 <p>下面就是一堆界面的截图。<img data-src="截屏2020-04-07-下午7.26.06.png" alt="截屏2020-04-07 下午7.26.06"><i class="img-caption">◎ 正在载入的样子</i><img data-src="截屏2020-04-07-下午7.26.13.png" alt="截屏2020-04-07 下午7.26.13"><i class="img-caption">◎ 载入完成的样子</i><img data-src="截屏2020-04-07-下午7.30.51.png" alt="截屏2020-04-07 下午7.30.51"><i class="img-caption">◎ 查询的样子</i></p>
 <p>然后，就要开始记录这是怎么实现的了！</p>
@@ -85,7 +87,7 @@
 <p>  删除上岛成员：该功能将删除上岛成员。</p>
 <p>  貌似强制付费的和下架的歌就算有歌曲id也放不了啊，淦。</p>
   
-    <div id="aplayer-OxFCZyIL" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-NyNuspuK" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="30251429" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 
