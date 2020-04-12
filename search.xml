@@ -53,7 +53,7 @@
 <p>可以看到代码非常的长（大雾）。我们其实只用看一段就明白了QHBoxLayout和QVBoxLayout怎么用。</p>
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">hbox_v=QHBoxLayout()</span><br><span class="line">hbox_v.addStretch(<span class="number">1</span>)</span><br><span class="line">hbox_v.addWidget(self.cobo)</span><br><span class="line">hbox_v.addStretch(<span class="number">1</span>)</span><br><span class="line">hbox_v.addWidget(self.line)</span><br><span class="line">hbox_v.addStretch(<span class="number">1</span>)</span><br></pre></td></tr></table></figure>
 
-<p>这一段代码中，<code>hbox</code>表示我们创建了一个水平的box。他的<code>addStretch</code>方法则表示增加一个拉伸因子。<code>addWidget</code>表示我们增加一个组件进去。这个拉伸因子是干嘛的呢？他是用来控制组件之间的间隙比例的。按照顺序加入则表示从左到右的元素是什么，而这些元素之间的间距比例又是多少。<img data-src="截屏2020-04-12-下午3.29.51" alt="截屏2020-04-07 下午6.57.23"><i class="img-caption">◎ 把我们的主页面拉大一点</i></p>
+<p>这一段代码中，<code>hbox</code>表示我们创建了一个水平的box。他的<code>addStretch</code>方法则表示增加一个拉伸因子。<code>addWidget</code>表示我们增加一个组件进去。这个拉伸因子是干嘛的呢？他是用来控制组件之间的间隙比例的。按照顺序加入则表示从左到右的元素是什么，而这些元素之间的间距比例又是多少。<img data-src="截屏2020-04-12-下午3.29.51.png" alt="截屏2020-04-07 下午6.57.23"><i class="img-caption">◎ 把我们的主页面拉大一点</i></p>
 <p>这里对比下面的代码则可以看出，cobo条上下的距离是1:2的关系。这与我们代码中的设计是一致的。</p>
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">vbox_tit = QVBoxLayout()</span><br><span class="line">vbox_tit.addLayout(hbox)</span><br><span class="line">vbox_tit.addLayout(hbox_btn)</span><br><span class="line">vbox_tit.addWidget(self.btn2)</span><br><span class="line">vbox_tit.addStretch(<span class="number">1</span>)</span><br><span class="line">vbox_tit.addLayout(hbox_v)</span><br><span class="line">vbox_tit.addStretch(<span class="number">2</span>)</span><br></pre></td></tr></table></figure>
 
@@ -120,7 +120,7 @@
 <p>  删除上岛成员：该功能将删除上岛成员。</p>
 <p>  貌似强制付费的和下架的歌就算有歌曲id也放不了啊，淦。</p>
   
-    <div id="aplayer-SFAOdhrt" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-CkQDfeJs" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="30251429" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 
