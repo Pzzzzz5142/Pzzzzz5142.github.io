@@ -73,35 +73,13 @@
   </entry>
   
   <entry>
-    <title>HiCity-v0-4-记录/20171184-张译-第八周作业-数据库</title>
-    <link href="https://pzzzzz5142.github.io/uncategorized/HiCity-v0-4-%E8%AE%B0%E5%BD%95/20171184-%E5%BC%A0%E8%AF%91-%E7%AC%AC%E5%85%AB%E5%91%A8%E4%BD%9C%E4%B8%9A-%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    <id>https://pzzzzz5142.github.io/uncategorized/HiCity-v0-4-%E8%AE%B0%E5%BD%95/20171184-%E5%BC%A0%E8%AF%91-%E7%AC%AC%E5%85%AB%E5%91%A8%E4%BD%9C%E4%B8%9A-%E6%95%B0%E6%8D%AE%E5%BA%93/</id>
-    <published>2020-04-06T16:00:00.000Z</published>
-    <updated>2020-04-16T12:35:27.734Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><ol><li><p>B为100 A为150</p></li><li><p>由于事物$T_1$在释放B的X锁之后又申请了A的X锁，所以不是采用两段封锁协议。</p></li><li><p>该并发执行历程为</p><p> $R_1(B)W_1(B)R_2(A)R_2(B)W_2(B)R_1(A)W_1(A)$</p><p> 冲突操作为$R_1(B)W_2(B)$、$W_1(B)R_2(B)$、$W_1(B)W_2(B)$、$R_2(A)W_1(A)$。</p></li><li><p>该调度不是可串行化调度。该并发执行历程为</p><p> $R_1(B)W_1(B)R_2(A)R_2(B)W_2(B)R_1(A)W_1(A)$</p><p> 可以看出最开始的冲突操作为$W_1(B)R_2(B)$，则假如他们满足可串行化调度，则$T_1&lt;T_2$。第二对冲突操作为$R_2(A)W_1(A)$，可以看出，$T_2&lt;T_1$，与前一对冲突操作矛盾，故不是可串行化调度。</p></li></ol>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>动森Q群机器人的 To-DO list！</title>
     <link href="https://pzzzzz5142.github.io/xjb%E5%86%99/%E5%8A%A8%E6%A3%AEQ%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84-To-DO-list%EF%BC%81/"/>
     <id>https://pzzzzz5142.github.io/xjb%E5%86%99/%E5%8A%A8%E6%A3%AEQ%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84-To-DO-list%EF%BC%81/</id>
     <published>2020-04-05T07:11:49.000Z</published>
     <updated>2020-04-08T06:06:13.920Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p>正如其名，我想要搞的功能！包括我特别想搞的和我想搞但是想摸的。</p></blockquote><a id="more"></a><h2 id="重要功能"><a href="#重要功能" class="headerlink" title="重要功能"></a>重要功能</h2><ul><li><p>大头菜上市功能</p><ul><li><p>已完成</p><p>  增删查改大头菜的价格</p></li><li><p>未完成</p><p>  发布大头菜价格到群里</p><blockquote><p>待定使用方法：<code>大头菜 -s</code></p></blockquote><p>  隐藏大头菜价格：该功能将使你的大头菜价格不再显示在 <code>大头菜 -l</code> 命令中，这个功能用于你不想别人看到你的大头菜价格，但是又不想删掉这个价格。设置完成后将不影响<strong>发布大头菜</strong>功能。</p></li></ul></li><li><p>上岛功能（待实现）</p><p>  增加上岛成员：该功能将添加想上岛的成员，方便批发房间密码。</p><blockquote><p>待定使用方法：<code>岛 -a {QQ号}</code></p></blockquote><p>  批发上岛密码：该功能顾名思义，将批发上岛的密码到上岛的人中。</p><blockquote><p>待定使用方法：<code>岛 -p</code></p></blockquote><p>  删除上岛成员：该功能将删除上岛成员。</p><p>  貌似强制付费的和下架的歌就算有歌曲id也放不了啊，淦。</p>      <div id="aplayer-ypfAtBND" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="30251429" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div></li></ul>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p>正如其名，我想要搞的功能！包括我特别想搞的和我想搞但是想摸的。</p></blockquote><a id="more"></a><h2 id="重要功能"><a href="#重要功能" class="headerlink" title="重要功能"></a>重要功能</h2><ul><li><p>大头菜上市功能</p><ul><li><p>已完成</p><p>  增删查改大头菜的价格</p></li><li><p>未完成</p><p>  发布大头菜价格到群里</p><blockquote><p>待定使用方法：<code>大头菜 -s</code></p></blockquote><p>  隐藏大头菜价格：该功能将使你的大头菜价格不再显示在 <code>大头菜 -l</code> 命令中，这个功能用于你不想别人看到你的大头菜价格，但是又不想删掉这个价格。设置完成后将不影响<strong>发布大头菜</strong>功能。</p></li></ul></li><li><p>上岛功能（待实现）</p><p>  增加上岛成员：该功能将添加想上岛的成员，方便批发房间密码。</p><blockquote><p>待定使用方法：<code>岛 -a {QQ号}</code></p></blockquote><p>  批发上岛密码：该功能顾名思义，将批发上岛的密码到上岛的人中。</p><blockquote><p>待定使用方法：<code>岛 -p</code></p></blockquote><p>  删除上岛成员：该功能将删除上岛成员。</p><p>  貌似强制付费的和下架的歌就算有歌曲id也放不了啊，淦。</p>      <div id="aplayer-AhxelMir" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="30251429" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div></li></ul>]]></content>
     
     <summary type="html">
     
