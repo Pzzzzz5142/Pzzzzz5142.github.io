@@ -164,12 +164,12 @@
 <p>一开始叫我弄离散化连续值我是拒绝的，因为我实在懒得搞。</p>
 <p>然后得到了这个结果：</p>
 <figure>
-<img data-src="/Users/pzzzzz/Library/Application%20Support/typora-user-images/image-20200717010456670.png" alt="image-20200717010456670" /><figcaption>image-20200717010456670</figcaption>
+<img data-src="image-20200717010456670.png" alt="image-20200717010456670" /><figcaption>image-20200717010456670</figcaption>
 </figure>
 <p>实际上，由于这个数据集本身很大，所以出现0概率的情况属实太少了，因此带不带平滑处理貌似区别也不少很大。</p>
 <p>但是我对这个结果不是很满意。于是我便加上了两个我认为重要的数据的离散化处理，并得到了如下结果：</p>
 <figure>
-<img data-src="/Users/pzzzzz/Library/Application%20Support/typora-user-images/image-20200717010658444.png" alt="image-20200717010658444" /><figcaption>image-20200717010658444</figcaption>
+<img data-src="image-20200717010658444.png" alt="image-20200717010658444" /><figcaption>image-20200717010658444</figcaption>
 </figure>
 <p>这次准确率提升了3%，而f1值提升了将近10%！这可太好了！而同时，平滑处理本身也对结果有一定的优化，只是这个优化确实是有限的。</p>
 <h2 id="小小的问题">小小的问题</h2>
@@ -177,7 +177,7 @@
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">assert</span> Ok &gt; <span class="number">1</span></span><br><span class="line"><span class="keyword">assert</span> Not &gt; <span class="number">1</span></span><br></pre></td></tr></table></figure>
 <p>其中<code>Ok</code>是在该特征下，这个人年薪5w🔪以上的概率，<code>Not</code>变量含义则与之相反。那么我们继续运行一下。</p>
 <figure>
-<img data-src="/Users/pzzzzz/Library/Application%20Support/typora-user-images/image-20200717011622886.png" alt="image-20200717011622886" /><figcaption>image-20200717011622886</figcaption>
+<img data-src="image-20200717011622886.png" alt="image-20200717011622886" /><figcaption>image-20200717011622886</figcaption>
 </figure>
 <p>啊哈，他报错了。这说明确实在这些变量之间，确实是有相关性的。但这也是朴素贝叶斯分类器无能为力的地方。</p>
 <h2 id="总结">总结</h2>
@@ -415,7 +415,7 @@
 <p>删除上岛成员：该功能将删除上岛成员。</p>
 <p>貌似强制付费的和下架的歌就算有歌曲id也放不了啊，淦。</p>
 <p>
-    <div id="aplayer-LGcBFvMx" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-ytAfNSWa" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="30251429" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div></p></li>
 </ul>
