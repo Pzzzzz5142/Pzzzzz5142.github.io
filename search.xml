@@ -27,7 +27,7 @@
 </blockquote>
 <p>那么我们话不多说直接开始代码部分。这次的代码部分我采用的UCI的adult数据集。数据地址在<a href="http://archive.ics.uci.edu/ml/datasets/Adult" target="_blank" rel="noopener">这里</a>。</p>
 <h3 id="数据集的含义">数据集的含义</h3>
-<p>该数据从美国1994年人口普查数据库中抽取而来，因此也称作“人口普查收入”数据集，共包含48842条记录，年收入大于50k$的占比23.93%，年收入小于50k$的占比76.07%，数据集已经划分为训练数据32561条和测试数据16281条。该数据集类变量为年收入是否超过50k$，属性变量包括年龄、工种、学历、职业等14类重要信息，其中有8类属于类别离散型变量，另外6类属于数值连续型变量。该数据集是一个分类数据集，用来预测年收入是否超过50k$。</p>
+<p>该数据从美国1994年人口普查数据库中抽取而来，因此也称作“人口普查收入”数据集，共包含48842条记录，年收入大于50k的占比23.93%，年收入小于50k的占比76.07%，数据集已经划分为训练数据32561条和测试数据16281条。该数据集类变量为年收入是否超过50k，属性变量包括年龄、工种、学历、职业等14类重要信息，其中有8类属于类别离散型变量，另外6类属于数值连续型变量。该数据集是一个分类数据集，用来预测年收入是否超过50k。</p>
 <table>
 <thead>
 <tr class="header">
@@ -378,7 +378,7 @@
 <p>删除上岛成员：该功能将删除上岛成员。</p>
 <p>貌似强制付费的和下架的歌就算有歌曲id也放不了啊，淦。</p>
 <p>
-    <div id="aplayer-dOrUQbiz" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-VXJdOgiO" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="30251429" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div></p></li>
 </ul>
