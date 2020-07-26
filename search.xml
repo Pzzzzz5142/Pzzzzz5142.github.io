@@ -4,6 +4,7 @@
     <title>知识图谱学习笔记（二）</title>
     <url>/%E5%AD%A6%E4%B9%A0/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="chapter-3">Chapter 3</h1>
+<a id="more"></a>
 <h2 id="什么是领域短语挖掘与其他相关任务有什么区别">什么是领域短语挖掘？与其他相关任务有什么区别？</h2>
 <p><strong>最先的前提：</strong>构建知识图谱的第一步便是获取图谱中的实体。</p>
 <p>而相对应的，领域短语挖掘便是用于发现领域相关的短语，识别出领域相关的实体。</p>
@@ -530,7 +531,7 @@
 <p>删除上岛成员：该功能将删除上岛成员。</p>
 <p>貌似强制付费的和下架的歌就算有歌曲id也放不了啊，淦。</p>
 <p>
-    <div id="aplayer-IkVAZykk" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-GbTyMVIb" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="30251429" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div></p></li>
 </ul>
