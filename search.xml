@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>page</title>
+    <title>Why？</title>
     <url>/uncategorized/Why%EF%BC%9F/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="prologue">Prologue</h1>
+<p>很早的时候，大概是高中时期吧（<del>高中时期就算是很早吗？？？</del>），总是有一个人类的终极目的问题困扰着我，<strong>Why？</strong>这个<strong>为什么</strong>是关于许多事情的<strong>为什么</strong>。譬如，你<strong>为什么</strong>吃饭？你<strong>为什么</strong>睡觉？你<strong>为什么</strong>学习？你<strong>为什么</strong>努力？你<strong>为什么</strong>考带学？你，又<strong>为什么</strong>活着？前两个问题还算是非常好解释的。答案很简单，你不这么干早跪了，放现在坟头草都三丈高了吧。但是后几个问题倒是比较难以回答，惶且不论最后一个人生的终极问题，这掐头去尾的三个问题可是结结实实的成为了我高中三年的最大困惑。虽然想这些问题也让我感到非常的震惊（特么别的小朋友都认认真真的在复习准备考试，宁搁这儿干嘛呢？），但是很不幸，年少无知而又中二的我总是很想问一句，为什么？因此，仅以这篇随笔来稍稍记录一下，本科即将完成的我，现在关于这些问题的所思所想。</p>
+<a id="more"></a>
+<h1 id="smjb">SMJB？？</h1>
+<p>大概是从小家里管得比较严吧，也没有人给我解释这些问题。只是用诸如，”你不好好读书，将来要后悔的“、”什么年龄段做什么年龄段的事“等等标准答案来回答我。可惜，如果我就这么被满足了，那我也就对不起年少无知而又中二的名号了。同时，作为一个喜欢刨根问底的人，俗称，钻牛角尖的人，我很清楚我很难做到不问为什么，硬着往上干。像是觉得世间万物都应该如数学公理一样，这些问题的答案也应该有一个不可否认的坚实的公理作为这些解释的原因。毕竟，我很喜欢那种通过几个公理，推出整个数学体系的过程，我也认真的觉得，这些问题都是一个有向无环图，一个个节点代表着结论，而一条条边代表着推理过程。而我想做的，就是找到源头，找到没有入度的节点 ，找到所有行为动机的那些个没有为什么的原始冲动。</p>
 ]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
   </entry>
   <entry>
     <title>知识图谱学习笔记（二）</title>
@@ -537,7 +544,7 @@
 <p>删除上岛成员：该功能将删除上岛成员。</p>
 <p>貌似强制付费的和下架的歌就算有歌曲id也放不了啊，淦。</p>
 <p>
-    <div id="aplayer-bsRUoYMj" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-xmuxhXgM" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="30251429" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div></p></li>
 </ul>
