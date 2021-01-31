@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>post</title>
+    <url>/uncategorized/%E6%9C%80%E8%BF%91%E7%9C%9F%E6%91%B8%E5%95%8A%EF%BC%81/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>
+]]></content>
+  </entry>
+  <entry>
     <title>双十一买了个电动牙刷</title>
     <url>/uncategorized/%E5%8F%8C%E5%8D%81%E4%B8%80%E4%B9%B0%E4%BA%86%E4%B8%AA%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote>
@@ -89,8 +95,8 @@
       </categories>
       <tags>
         <tag>学习</tag>
-        <tag>基础</tag>
         <tag>知识图谱</tag>
+        <tag>基础</tag>
       </tags>
   </entry>
   <entry>
@@ -257,12 +263,12 @@
 <p>一开始叫我弄离散化连续值我是拒绝的，因为我实在懒得搞。</p>
 <p>然后得到了这个结果：</p>
 <figure>
-<img data-src="image-20200717010456670.png" alt="image-20200717010456670" /><figcaption>image-20200717010456670</figcaption>
+<img data-src="image-20200717010456670.png" alt="image-20200717010456670" /><figcaption aria-hidden="true">image-20200717010456670</figcaption>
 </figure>
 <p>实际上，由于这个数据集本身很大，所以出现0概率的情况属实太少了，因此带不带平滑处理貌似区别也不少很大。</p>
 <p>但是我对这个结果不是很满意。于是我便加上了两个我认为重要的数据的离散化处理，并得到了如下结果：</p>
 <figure>
-<img data-src="image-20200717010658444.png" alt="image-20200717010658444" /><figcaption>image-20200717010658444</figcaption>
+<img data-src="image-20200717010658444.png" alt="image-20200717010658444" /><figcaption aria-hidden="true">image-20200717010658444</figcaption>
 </figure>
 <p>这次准确率提升了3%，而f1值提升了将近10%！这可太好了！而同时，平滑处理本身也对结果有一定的优化，只是这个优化确实是有限的。</p>
 <h2 id="小小的问题">小小的问题</h2>
@@ -270,7 +276,7 @@
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">assert</span> Ok &gt; <span class="number">1</span></span><br><span class="line"><span class="keyword">assert</span> Not &gt; <span class="number">1</span></span><br></pre></td></tr></table></figure>
 <p>其中<code>Ok</code>是在该特征下，这个人年薪5w🔪以上的概率，<code>Not</code>变量含义则与之相反。那么我们继续运行一下。</p>
 <figure>
-<img data-src="image-20200717011622886.png" alt="image-20200717011622886" /><figcaption>image-20200717011622886</figcaption>
+<img data-src="image-20200717011622886.png" alt="image-20200717011622886" /><figcaption aria-hidden="true">image-20200717011622886</figcaption>
 </figure>
 <p>啊哈，他报错了。这说明确实在这些变量之间，确实是有相关性的。但这也是朴素贝叶斯分类器无能为力的地方。举个例子，有如下关系：</p>
 <table>
@@ -345,8 +351,8 @@
       </categories>
       <tags>
         <tag>学习</tag>
-        <tag>机器学习</tag>
         <tag>基础</tag>
+        <tag>机器学习</tag>
       </tags>
   </entry>
   <entry>
@@ -450,8 +456,8 @@
       </categories>
       <tags>
         <tag>学习</tag>
-        <tag>基础</tag>
         <tag>知识图谱</tag>
+        <tag>基础</tag>
       </tags>
   </entry>
   <entry>
@@ -466,23 +472,23 @@
 <p>本篇文章将按照QWiget、QButton与信号与槽、QHBoxLayout/QVBoxLayout与窗口自适应、QTheard、pyqtSignal的顺序来记录如何写一个<strong>有进度条的</strong>、<strong>能自动补全的</strong>基于qt的小应用。</p>
 <h1 id="hicity-v0.4">HiCity v0.4</h1>
 <figure>
-<img data-src="截屏2020-04-07-下午6.57.23.png" title="程序主界面" alt="截屏2020-04-07 下午6.57.23" /><figcaption>截屏2020-04-07 下午6.57.23</figcaption>
+<img data-src="截屏2020-04-07-下午6.57.23.png" title="程序主界面" alt="截屏2020-04-07 下午6.57.23" /><figcaption aria-hidden="true">截屏2020-04-07 下午6.57.23</figcaption>
 </figure>
 <p>这个主界面非常的直白。但是不足的地方在于从文件进行的操作是在源码中写死了的。QT 支持点击一下按钮就调用一个取文件的操作。这个功能的实现会在后续更新。</p>
-<p>写死的文件路径的写法也是有所讲究的。以前我喜欢直接把相对路径的字符串拍上去，但是由于我使用了一个大的文件夹专门写python，这种作业就会单独开一个小文件夹来方便管理。但是在如下文件结构中，往往需要加&quot;homework/&quot;前缀才能正常的访问搭配 <code>data.txt</code> 文件。 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">.</span><br><span class="line">|-- python</span><br><span class="line">    |-- others.py</span><br><span class="line">    |-- homework</span><br><span class="line">        |-- HiCity v0.1.py</span><br><span class="line">        |-- HiCity v0.2.py</span><br><span class="line">        |-- HiCity v0.3.py</span><br><span class="line">        |-- HiCity v0.4.py</span><br><span class="line">        |-- data.txt</span><br></pre></td></tr></table></figure></p>
-<p>但是交作业的时候我们并不知道交上去的作业文件结构是什么样的，也不知道老师的python是在哪个路径下跑的。因此，我们可以通过 <code>os.path.join(os.path.dirname(__file__), &quot;data.txt&quot;)</code>来愉快的访问数据文件。因为你交上去的作业py文件和数据总是在一个文件夹下，所以这样就能避免许多路径上的问题。其中<code>os.path.dirname(__file__)</code>是返回当前文件的绝对路径，<code>os.path.join()</code>函数则是将文件路径连接起来。</p>
+<p>写死的文件路径的写法也是有所讲究的。以前我喜欢直接把相对路径的字符串拍上去，但是由于我使用了一个大的文件夹专门写python，这种作业就会单独开一个小文件夹来方便管理。但是在如下文件结构中，往往需要加"homework/"前缀才能正常的访问搭配 <code>data.txt</code> 文件。 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">.</span><br><span class="line">|-- python</span><br><span class="line">    |-- others.py</span><br><span class="line">    |-- homework</span><br><span class="line">        |-- HiCity v0.1.py</span><br><span class="line">        |-- HiCity v0.2.py</span><br><span class="line">        |-- HiCity v0.3.py</span><br><span class="line">        |-- HiCity v0.4.py</span><br><span class="line">        |-- data.txt</span><br></pre></td></tr></table></figure></p>
+<p>但是交作业的时候我们并不知道交上去的作业文件结构是什么样的，也不知道老师的python是在哪个路径下跑的。因此，我们可以通过 <code>os.path.join(os.path.dirname(__file__), "data.txt")</code>来愉快的访问数据文件。因为你交上去的作业py文件和数据总是在一个文件夹下，所以这样就能避免许多路径上的问题。其中<code>os.path.dirname(__file__)</code>是返回当前文件的绝对路径，<code>os.path.join()</code>函数则是将文件路径连接起来。</p>
 <p>下面就是一堆界面的截图。<img data-src="截屏2020-04-07-下午7.26.06.png" title="正在载入的样子" alt="截屏2020-04-07 下午7.26.06" /><img data-src="截屏2020-04-07-下午7.26.13.png" title="载入完成的样子" alt="截屏2020-04-07 下午7.26.13" /><img data-src="截屏2020-04-07-下午7.30.51.png" title="查询的样子" alt="截屏2020-04-07 下午7.30.51" /></p>
 <p>然后，就要开始记录这是怎么实现的了！</p>
 <h2 id="qwiget">QWiget</h2>
 <p>QWiget就是一个窗口类。一个如下的代码能够直接输出一个窗口。</p>
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> PyQt5.QtWidgets <span class="keyword">import</span> QWidget,QApplication</span><br><span class="line"><span class="keyword">import</span> sys</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__==<span class="string">"__main__"</span>:</span><br><span class="line">    app=QApplication(sys.argv)</span><br><span class="line">    win=QWidget()</span><br><span class="line">    win.show()</span><br><span class="line">    sys.exit(app.exec_())</span><br></pre></td></tr></table></figure>
 <figure>
-<img data-src="截屏2020-04-07-下午7.41.11.png" title="大概长这样" alt="截屏2020-04-07 下午7.41.11" /><figcaption>截屏2020-04-07 下午7.41.11</figcaption>
+<img data-src="截屏2020-04-07-下午7.41.11.png" title="大概长这样" alt="截屏2020-04-07 下午7.41.11" /><figcaption aria-hidden="true">截屏2020-04-07 下午7.41.11</figcaption>
 </figure>
 <p>当然我们的窗口自然不能什么都没有，所以我们常用的方法是继承<code>QWidget</code>类来添加我们想要的元素。那么借用一下<a href="https://pythonspot.com/pyqt5-window/" target="_blank" rel="noopener">官方的教程代码</a>我们就能给这个窗口添加我们想要的元素了。</p>
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> sys</span><br><span class="line"><span class="keyword">from</span> PyQt5.QtWidgets <span class="keyword">import</span> QApplication, QWidget</span><br><span class="line"><span class="keyword">from</span> PyQt5.QtGui <span class="keyword">import</span> QIcon</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">App</span><span class="params">(QWidget)</span>:</span></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">__init__</span><span class="params">(self)</span>:</span></span><br><span class="line">        super().__init__()</span><br><span class="line">        self.title = <span class="string">"PyQt5 simple window - pythonspot.com"</span></span><br><span class="line">        self.left = <span class="number">10</span>  <span class="comment"># 这个类可以放很多元素进去。虽然这里放的都是设置窗口相关的元素，但是能放置的不一定非得是Qt相关的元素</span></span><br><span class="line">        self.top = <span class="number">10</span></span><br><span class="line">        self.width = <span class="number">640</span></span><br><span class="line">        self.height = <span class="number">480</span></span><br><span class="line">        self.initUI()  <span class="comment"># 把元素放到窗口上</span></span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">initUI</span><span class="params">(self)</span>:</span></span><br><span class="line">        self.setWindowTitle(self.title)  <span class="comment"># 设置标题</span></span><br><span class="line">        self.setGeometry(self.left, self.top, self.width, self.height)  <span class="comment"># 设置大小</span></span><br><span class="line">        self.show()  <span class="comment"># 放好之后展示窗口</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">"__main__"</span>:</span><br><span class="line">    app = QApplication(sys.argv)</span><br><span class="line">    ex = App()</span><br><span class="line">    sys.exit(app.exec_())</span><br></pre></td></tr></table></figure>
 <figure>
-<img data-src="截屏2020-04-07-下午7.48.27.png" title="于是他有了预设大小以及一个标题" alt="截屏2020-04-07 下午7.48.27" /><figcaption>截屏2020-04-07 下午7.48.27</figcaption>
+<img data-src="截屏2020-04-07-下午7.48.27.png" title="于是他有了预设大小以及一个标题" alt="截屏2020-04-07 下午7.48.27" /><figcaption aria-hidden="true">截屏2020-04-07 下午7.48.27</figcaption>
 </figure>
 <p>如果你要做一个按下按钮才弹出的窗口的话，注意不要在<code>setupUI()</code>函数中使用<code>self.show()</code>函数，否则这个窗口将在创建的时候就展示出来了。</p>
 <h2 id="qbutton与信号与槽">QButton与信号与槽</h2>
@@ -561,7 +567,7 @@
 <p>删除上岛成员：该功能将删除上岛成员。</p>
 <p>貌似强制付费的和下架的歌就算有歌曲id也放不了啊，淦。</p>
 <p>
-    <div id="aplayer-FHmwNLFf" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-HPyGeKjw" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="30251429" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div></p></li>
 </ul>
@@ -613,7 +619,7 @@
 <h1 id="本">本</h1>
 <p>疫情在家期间，难免无所事事。但是看了许多本子之后，果然还是觉得大塚まひろ老师画得最好看。某粉红色的软件上关于这位老师的作品，u1s1，我全都喜欢。剧情大部分都是纯爱，蛮甜的。大姐头那一系列去掉hs能上动漫之家都没问题。唯一的一部双男主的本子也画了两条线，可谓是诚意满满。画风方面，就我目前的看来，说是我心中的第一也不为过。</p>
 <figure>
-<img data-src="img-1.jpg" title="随意找了一个本子的封面" alt="某个本子的封面" /><figcaption>某个本子的封面</figcaption>
+<img data-src="img-1.jpg" title="随意找了一个本子的封面" alt="某个本子的封面" /><figcaption aria-hidden="true">某个本子的封面</figcaption>
 </figure>
 ]]></content>
       <categories>
@@ -647,7 +653,7 @@
 <p>不过这些功能目前来说都是可有可无的，等我哪天心情好了可能就有了吧。</p>
 <p>好了，现在这个博客已经基本上能看了，最后放一张大一的时候去吃夜市拍的一张图收尾吧，顺便测试一下图片插入有没有问题。</p>
 <figure>
-<img data-src="IMG_0800.jpeg" title="结果用了一种极其tricky的方法才达成这样的效果。。" alt="w-651 IMG_0800.heic" /><figcaption>w-651 IMG_0800.heic</figcaption>
+<img data-src="IMG_0800.jpeg" title="结果用了一种极其tricky的方法才达成这样的效果。。" alt="w-651 IMG_0800.heic" /><figcaption aria-hidden="true">w-651 IMG_0800.heic</figcaption>
 </figure>
 <h1 id="推荐链接">推荐链接</h1>
 <ul>
