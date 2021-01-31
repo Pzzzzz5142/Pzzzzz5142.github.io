@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pzzzzz5142.github.io/"/>
-  <updated>2021-01-31T11:35:45.137Z</updated>
+  <updated>2021-01-31T11:43:15.386Z</updated>
   <id>https://pzzzzz5142.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>post</title>
+    <title>最近真摸啊！</title>
     <link href="https://pzzzzz5142.github.io/uncategorized/%E6%9C%80%E8%BF%91%E7%9C%9F%E6%91%B8%E5%95%8A%EF%BC%81/"/>
     <id>https://pzzzzz5142.github.io/uncategorized/%E6%9C%80%E8%BF%91%E7%9C%9F%E6%91%B8%E5%95%8A%EF%BC%81/</id>
     <published>2021-01-31T11:35:27.000Z</published>
-    <updated>2021-01-31T11:35:45.137Z</updated>
+    <updated>2021-01-31T11:43:15.386Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
     
@@ -35,6 +35,8 @@
     </summary>
     
     
+    
+      <category term="随笔" scheme="https://pzzzzz5142.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -207,7 +209,7 @@
     <published>2020-04-05T07:11:49.000Z</published>
     <updated>2020-04-08T06:06:13.920Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p>正如其名，我想要搞的功能！包括我特别想搞的和我想搞但是想摸的。</p></blockquote><a id="more"></a><h2 id="重要功能">重要功能</h2><ul><li><p>大头菜上市功能</p><ul><li><p>已完成</p><p>增删查改大头菜的价格</p></li><li><p>未完成</p><p>发布大头菜价格到群里</p><blockquote><p>待定使用方法：<code>大头菜 -s</code></p></blockquote><p>隐藏大头菜价格：该功能将使你的大头菜价格不再显示在 <code>大头菜 -l</code> 命令中，这个功能用于你不想别人看到你的大头菜价格，但是又不想删掉这个价格。设置完成后将不影响<strong>发布大头菜</strong>功能。</p></li></ul></li><li><p>上岛功能（待实现）</p><p>增加上岛成员：该功能将添加想上岛的成员，方便批发房间密码。</p><blockquote><p>待定使用方法：<code>岛 -a {QQ号}</code></p></blockquote><p>批发上岛密码：该功能顾名思义，将批发上岛的密码到上岛的人中。</p><blockquote><p>待定使用方法：<code>岛 -p</code></p></blockquote><p>删除上岛成员：该功能将删除上岛成员。</p><p>貌似强制付费的和下架的歌就算有歌曲id也放不了啊，淦。</p><p>    <div id="aplayer-kXleNgZq" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="30251429" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div></p></li></ul>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p>正如其名，我想要搞的功能！包括我特别想搞的和我想搞但是想摸的。</p></blockquote><a id="more"></a><h2 id="重要功能">重要功能</h2><ul><li><p>大头菜上市功能</p><ul><li><p>已完成</p><p>增删查改大头菜的价格</p></li><li><p>未完成</p><p>发布大头菜价格到群里</p><blockquote><p>待定使用方法：<code>大头菜 -s</code></p></blockquote><p>隐藏大头菜价格：该功能将使你的大头菜价格不再显示在 <code>大头菜 -l</code> 命令中，这个功能用于你不想别人看到你的大头菜价格，但是又不想删掉这个价格。设置完成后将不影响<strong>发布大头菜</strong>功能。</p></li></ul></li><li><p>上岛功能（待实现）</p><p>增加上岛成员：该功能将添加想上岛的成员，方便批发房间密码。</p><blockquote><p>待定使用方法：<code>岛 -a {QQ号}</code></p></blockquote><p>批发上岛密码：该功能顾名思义，将批发上岛的密码到上岛的人中。</p><blockquote><p>待定使用方法：<code>岛 -p</code></p></blockquote><p>删除上岛成员：该功能将删除上岛成员。</p><p>貌似强制付费的和下架的歌就算有歌曲id也放不了啊，淦。</p><p>    <div id="aplayer-JXDxXeCb" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="30251429" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div></p></li></ul>]]></content>
     
     <summary type="html">
     
